@@ -63,5 +63,3 @@ My goal is to start my career as a **Data Analyst** and use data to solve real-w
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-
-Hi there! I'm **Umesh Benade**, Aspiring data analyst
