@@ -33,8 +33,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## 🛡️ License
-
 ## 👋 About Me
 
 Hi, I'm **Umesh Benade**, an **Aspiring Data Analyst** passionate about transforming raw data into meaningful insights that support better business decisions.
@@ -65,6 +63,5 @@ My goal is to start my career as a **Data Analyst** and use data to solve real-w
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
 
 Hi there! I'm **Umesh Benade**, Aspiring data analyst
