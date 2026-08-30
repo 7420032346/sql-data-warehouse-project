@@ -35,6 +35,34 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## 🛡️ License
 
+## 👋 About Me
+
+Hi, I'm **Umesh Benade**, an **Aspiring Data Analyst** passionate about transforming raw data into meaningful insights that support better business decisions.
+
+I’m building my skills in **Excel, SQL, Power BI, and Data Analysis**, with a strong focus on data cleaning, reporting, visualization, and extracting actionable insights from datasets.
+
+### 🛠️ Skills & Tools
+
+* 📊 **Excel** – Advanced formulas, Pivot Tables, Power Query & Dashboards
+* 🗄️ **SQL** – Data querying, filtering, aggregation, joins & analysis
+* 📈 **Power BI** – Data visualization, dashboards & reporting
+* 🔍 **Data Analysis** – Data Cleaning, EDA, KPI Analysis & Business Insights
+
+### 🚀 What I'm Currently Doing
+
+* Building practical **data analytics projects**
+* Practicing **SQL, Excel & Power BI**
+* Creating interactive dashboards and reports
+* Improving my problem-solving and analytical skills
+* Building a portfolio to showcase my work
+
+### 🎯 Career Goal
+
+My goal is to start my career as a **Data Analyst** and use data to solve real-world business problems, identify trends, and help organizations make **data-driven decisions**.
+
+> **"Turning data into insights, and insights into better decisions."**
+
+
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
